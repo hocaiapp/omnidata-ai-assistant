@@ -1,0 +1,5 @@
+{
+  "name": "OmniData AI Assistant",
+  "description": "A sophisticated AI Data Analyst tool for processing, analyzing, and merging multiple data files (CSV, Excel, TXT) with Gemini-powered insights and a natural language chat interface.",
+  "requestFramePermissions": []
+}
